@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "data_tracked": false,
+    "demo_page": "https://retornadado2.bubbleapps.io/version-test/camera_checker?debug_mode=true",
+    "description": "This functionality checks for the presence of cameras on the device. It continuously monitors for changes in the availability of cameras, updating the status accordingly. If a camera is detected, the system will set the status to \"yes,\" otherwise \"no.\"\n\n\n\n\nDemo: https://retornadado2.bubbleapps.io/version-test/camera_checker?debug_mode=true\n\n\nEditor:  https://bubble.io/page?id=retornadado2&test_plugin=1741196098134x837393832256471000_current&tab=Design&name=camera_checker&type=page\n\n\n\n_____________________________________________________________\n\n\n\n\nEsta funcionalidade verifica a presença de câmeras no dispositivo. Ela monitora continuamente as mudanças na disponibilidade de câmeras, atualizando o status conforme necessário. Se uma câmera for detectada, o sistema definirá o status como \"sim\", caso contrário, será \"não\". \n\n\n\nDemo: https://retornadado2.bubbleapps.io/version-test/camera_checker?debug_mode=true\n\n\nEditor:  https://bubble.io/page?id=retornadado2&test_plugin=1741196098134x837393832256471000_current&tab=Design&name=camera_checker&type=page",
+    "image": "//meta-q.cdn.bubble.io/f1741196211758x704839721385649700/check-camera-logo-icon-design_995545-298.avif",
+    "license": "open_source",
+    "name": "Camera Checker & Detector",
+    "plugin_instructions": "Just insert the camera checker element into the editor screen. You will be able to access the exposed state 'camera_detected'. If the result is yes, there is at least one camera installed on the current device.\n\n\n\n________________________________________________________________________\n\n\n\n\nSimplesmente insira o elemento camera checker na tela do editor. Você poderá acessar o exposed state 'camera_detected'. Se o resultado for sim, há ao menos uma câmera instalada no dispositivo atual."
+}
